@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020.08.03 14:57:27.521,=C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020.08.03 14:58:04.961,C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\Mebel_MultiDevice\UnitMain.pas=C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020.08.03 14:58:04.961,C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\Mebel_MultiDevice\UnitMain.fmx=C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2020.08.03 14:58:15.973,C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\Mebel_MultiDevice\ProjectMain.dproj=C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020.08.03 14:59:21.291,=C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\Mebel_MultiDevice\Unit1.pas</Transaction>
+    <Transaction>2020.08.03 14:59:38.636,C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\Mebel_MultiDevice\UnitDM.pas=C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\Mebel_MultiDevice\Unit1.pas</Transaction>
+    <Transaction>2020.08.03 14:59:38.636,C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\Mebel_MultiDevice\UnitDM.dfm=C:\Users\mdsuz07\Documents\Embarcadero\Studio\Projects\Mebel_MultiDevice\Unit1.dfm</Transaction>
+  </Transactions>
+  <ActiveMobileDevice>   <NoProfile iOSSimulator="iPhone5"/>
+  </ActiveMobileDevice>
+</BorlandProject>
